@@ -19,8 +19,7 @@ Endpoint ```/gsmarena/brands```
         "name":"Acer",
         "devices":"99",
         "url":"acer-phones-59.php"
-    },
-    ...
+    }
 ]
 ```
 
@@ -36,8 +35,7 @@ example ``/gsmarena/brand/acer-phones-59.php``
       "img": "https://cdn2.gsmarena.com/vv/bigpic/acer-iconia-talk-s.jpg",
       "url": "acer_iconia_talk_s-8306.php",
       "description": "Acer Iconia Talk S Android tablet. Announced Aug 2016. Features 7.0″ IPS LCD display, MT8735 chipset, 13 MP primary camera, 2 MP front camera, 3400 mAh battery, 32 GB storage, 2 GB RAM."
-    },
-    ...
+    }
   ],
   "next": "acer-phones-f-59-0-p2.php",
   "prev": "#1"
