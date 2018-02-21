@@ -1,0 +1,20 @@
+{
+  "name": "gsmarena-crawler-json",
+  "version": "1.0.0",
+  "description": "crawl gsmarena and then return as json object",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "gsmarena"
+  ],
+  "author": "Ujang Karnadi",
+  "license": "ISC",
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.2",
+    "request": "^2.83.0",
+    "restify": "^6.3.4",
+    "restify-cors-middleware": "^1.1.0"
+  }
+}
