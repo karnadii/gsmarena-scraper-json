@@ -1,6 +1,6 @@
-var restify = require('restify');
-var cheerio = require('cheerio');
-var request = require('request');
+const restify = require('restify');
+const cheerio = require('cheerio');
+const request = require('request');
 const corsMiddleware = require('restify-cors-middleware');
 
 var URI = "https://www.gsmarena.com";
