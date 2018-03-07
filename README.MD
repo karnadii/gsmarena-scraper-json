@@ -1,6 +1,8 @@
 # GSMArena Crawler
 crawl gsmarena then return a json object
 
+demo app @ [Playstore](https://play.google.com/store/apps/details?id=id.karnadi.gsmarena.phone.finder.specs)
+
 ```bash
 npm install
 node index.js
